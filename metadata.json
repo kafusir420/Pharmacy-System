@@ -1,0 +1,5 @@
+{
+  "name": "Pharmacy app",
+  "description": "A comprehensive Pharmacy Management System (PMS) featuring Point of Sale, multi-warehouse inventory with batch and expiry tracking, supplier and purchase management, user roles, sales and stock reports.",
+  "requestFramePermissions": []
+}
